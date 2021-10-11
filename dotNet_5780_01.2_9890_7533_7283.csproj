@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>dotNet_5780_01._2_9890_7533_7283</RootNamespace>
+  </PropertyGroup>
+
+</Project>
